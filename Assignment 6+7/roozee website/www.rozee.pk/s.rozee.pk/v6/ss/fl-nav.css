@@ -1,0 +1,48 @@
+.nav-fl-tabs .btn-tabs {
+    font-size: 14px !important;
+    font-style: normal;
+    font-weight: 600 !important;
+    line-height: normal;
+    border-radius: 4px !important;
+    margin: 0 2px !important;
+    padding: 5px 16px !important;
+    height: auto !important;
+    border: 0 !important;
+    color: #fff !important;
+    line-height: 26px !important;
+    min-width: auto !important;
+}
+
+.nav-fl-tabs .btn-emp,
+.navbar-default .nav-fl-tabs .btn-emp {
+    background-color: #23315f !important;
+}
+
+.nav-fl-tabs .btn-fl {
+    background-color: #3682ff !important;
+}
+
+.nav-fl-tabs .btn-job {
+    background-color: #46b749 !important;
+}
+
+@media screen and (min-width:1600px) {
+    .nav-fl-tabs-home {
+        margin-top: 10px !important
+    }
+}
+
+.nav-tp-space {
+    padding-top: 8px
+}
+
+.language a {
+    display: block;
+}
+
+.language {
+    display: block;
+    padding-left: 10px;
+    border-left: solid 1px #ccc;
+    margin-left: 42px;
+}

@@ -1,0 +1,161 @@
+footer .nfwhite {
+    /*background: #ffffff !important;
+    border-top: 2px solid #f6f6f6;*/
+    color: #d4dbe4;
+}
+
+footer .nfwhite .theList .h4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+
+footer .nfwhite .theList .h4 a {
+    /*color: #212121 !important;*/
+    font-size: 18px;
+    font-weight: 600;
+}
+
+footer .nfwhite a,
+footer .nfwhite a:hover {
+    /*color: #424242;*/
+}
+
+footer .nfwhite .theCopy p {
+    /*color: #424242;*/
+}
+
+footer .nfwhite .theCopy {
+    /*border-top: 2px solid #f6f6f6;*/
+}
+
+footer .nfwhite .fSocial a {
+    background: #969696;
+    color: #23292f;
+    border-color: #969696;
+}
+
+footer .nfwhite .fSocial a.f-fb:hover {
+    background-color: #3b5998;
+    border-color: #3b5998;
+    color: #fff;
+}
+
+footer .nfwhite .fSocial a.f-tw:hover {
+    background-color: #38A1F3;
+    border-color: #38A1F3;
+    color: #fff;
+}
+
+footer .nfwhite .fSocial a.f-yt:hover {
+    background-color: #FF0000;
+    border-color: #FF0000;
+    color: #fff;
+}
+
+footer .nfwhite .fSocial a.f-ln:hover {
+    background-color: #0077B5;
+    border-color: #0077B5;
+    color: #fff;
+}
+
+footer .nfwhite .fSocial a.f-bl:hover {
+    background-color: #f06a35;
+    border-color: #f06a35;
+    color: #fff;
+}
+
+@media screen and (max-width:1750px) {
+    .nFooter footer .nfwhite .fSocial {
+        padding-right: 100px;
+    }
+}
+
+@media screen and (max-width:1599px) {
+    footer .nfwhite .ftrappbtn a img {
+        width: auto;
+    }
+    footer .nfwhite .container {
+        max-width: 1170px;
+    }
+    footer .nfwhite .f-row>div[class*="col-"]:first-child {
+        width: 220px;
+    }
+    footer .nfwhite .f-row>div[class*="col-"]:first-child+div[class*="col-"] {
+        width: 220px;
+    }
+    footer .nfwhite .f-row>div[class*="col-"]:first-child+div[class*="col-"]+div[class*="col-"]+div[class*="col-"] {
+        width: 240px;
+    }
+    footer .nfwhite .f-row>div[class*="col-"]:last-child {
+        width: 130px;
+    }
+    .nFooter footer .nfwhite .fSocial {
+        padding-right: 35px;
+    }
+}
+
+@media screen and (max-width:1330px) {
+    .nFooter footer .nfwhite .fSocial {
+        padding-right: 75px;
+    }
+}
+
+@media screen and (min-width:1600px) {
+    footer .nfwhite .f-row>div[class*="col-"]:first-child {
+        width: 16.66666667%;
+    }
+    footer .nfwhite .f-row>div[class*="col-"]:first-child+div[class*="col-"]+div[class*="col-"] {
+        width: 25%;
+    }
+    footer .nfwhite .f-row>div[class*="col-"]:first-child+div[class*="col-"]+div[class*="col-"]+div[class*="col-"] {
+        width: 335px;
+    }
+}
+
+footer .nfwhite svg #apple #apple-leaf {
+    fill: #969696;
+}
+
+footer .nfwhite svg #apple #apple-logo-path rect {
+    fill-opacity: 0
+}
+
+footer .nfwhite svg:hover #apple #apple-leaf {
+    fill: #6cbf40
+}
+
+footer .nfwhite svg:hover #apple #apple-logo-path rect {
+    fill-opacity: 1
+}
+
+footer .nfwhite svg:hover #AndroidGroup {
+    fill: #a4c639
+}
+
+footer .nfwhite .appStoreCTA svg #apple #apple-leaf {
+    fill: #858c94
+}
+
+footer .nfwhite .appStoreCTA svg #apple #apple-leaf:hover {
+    fill: #6cbf40
+}
+
+footer .nfwhite .appStoreCTA .android-svg #AndroidGroup,
+footer .nfwhite .appStoreCTA svg #apple #apple-logo {
+    fill: #858c94
+}
+
+footer .nfwhite .appStoreCTA .android-svg #AndroidGroup:hover {
+    fill: #a4c639
+}
+
+@media screen and (max-width:767px) {
+    footer .nfwhite .theCopy {
+        padding: 20px 0;
+    }
+    footer .nfwhite .theCopy .text-left,
+    footer .nfwhite .theCopy .text-right {
+        text-align: center !important;
+    }
+}

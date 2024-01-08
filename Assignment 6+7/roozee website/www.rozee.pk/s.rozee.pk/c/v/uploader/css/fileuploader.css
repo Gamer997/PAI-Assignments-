@@ -1,0 +1,288 @@
+@charset "utf-8";
+/* CSS Document */
+
+.browserCheckUploader {
+    clear: both;
+    float: left;
+    font-size: 12px;
+    margin: 0;
+    width: 100%;
+}
+
+.browserCheckUploader p {
+    margin: 0;
+}
+
+.browserCheckUploader b {
+    padding: 0 4px;
+}
+
+.ajxUploaderCnt {
+    float: left;
+    width: 100%;
+}
+
+.applyform #rUpload.ajxUploaderCnt {
+    border: 0 !important;
+}
+
+.applyform #rUpload.ajxUploaderCnt~.help-block::before {
+    content: 'Please select a file.';
+    display: block;
+    height: 20px;
+    line-height: 20px;
+}
+
+.applyform #rUpload.ajxUploaderCnt~.help-block {
+    height: 20px;
+    line-height: 20px;
+    display: block;
+    clear: both;
+    overflow: hidden;
+}
+
+.ajxUploaderCnt .sml {
+    font-size: 10px;
+    color: #666;
+}
+
+.qq-uploader {
+    float: left;
+    min-width: 200px;
+    font-size: 12px;
+    width: 100%;
+}
+
+.qq-uploader .qq-upload-button {
+    float: left;
+    width: auto;
+    cursor: pointer;
+}
+
+.qq-uploader .qq-upload-button input {
+    right: 114px !important;
+    height: 30px !important
+}
+
+.qq-uploader ul {
+    list-style: none;
+    clear: both;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    float: left;
+}
+
+.qq-uploader ul li {
+    padding: 3%;
+    width: 100%;
+    background-color: #fff;
+    float: left;
+    margin-top: 4%;
+}
+
+.qq-uploader ul span {
+    padding: 0;
+}
+
+.qq-uploader ul li span.qq-upload-progress {
+    width: 98%;
+    float: left;
+}
+
+.qq-uploader .qq-upload-drop-area {
+    border: 1px dashed #000000;
+    float: left;
+    margin: 0 0 10px;
+    padding: 4% 0;
+    text-align: center;
+    width: 100%;
+}
+
+#facebox .qq-uploader .qq-upload-drop-area {
+    display: none !important;
+}
+
+.qq-uploader .qq-upload-drop-area span {
+    color: #000;
+}
+
+.qq-uploader .qq-upload-or-area {
+    margin: 4px 10px 0 0;
+    float: left;
+    display: none;
+}
+
+.qq-uploader .qq-upload-failed-text {
+    float: right;
+    margin-right: 15px;
+    color: #900;
+    display: none;
+}
+
+.qq-uploader .qq-upload-success-text {
+    float: right;
+    color: #000;
+    display: none;
+}
+
+.qq-uploader .qq-upload-spinner {
+    float: right;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+
+.qq-uploader .qq-upload-preview {
+    float: left;
+    margin-right: 1%;
+}
+
+.qq-uploader .qq-upload-file {
+    float: left;
+    width: auto;
+    padding-right: 10px;
+    font-size: 14px;
+}
+
+.qq-uploader .qq-upload-size {
+    float: left;
+    font-size: 14px;
+    color: #6c757d !important;
+    font-weight: 400 !important;
+}
+
+.qq-uploader .qq-upload-cancel {
+    display: none !important;
+}
+
+.qq-uploader .qq-upload-failed {
+    background-color: transparent;
+    border: 1px solid #FA6B6B;
+    position: relative;
+}
+
+.qq-uploader .qq-upload-failed span {
+    color: #900 !important;
+    font-weight: bold;
+}
+
+.qq-uploader .qq-upload-failed .qq-upload-failed-text {
+    display: inline;
+}
+
+.qq-uploader .qq-upload-success {
+    background-color: #fff;
+    border: 1px solid #dedede;
+    position: relative;
+}
+
+.qq-uploader .qq-upload-success span {
+    color: #000 !important;
+    font-weight: bold;
+}
+
+.qq-uploader .qq-upload-success .qq-upload-success-text {
+    display: none;
+}
+
+.qq-uploader .qq-upload-progress {
+    background-color: #e9ecef;
+    height: 3px;
+}
+
+.qq-uploader .qq-upload-progress span {
+    float: left;
+    background-color: #5ec21a !important;
+    width: 0px;
+    height: 3px;
+    margin: 0px !important;
+}
+
+.qq-uploader .qq-upload-remove {
+    border: 2px solid transparent;
+    color: #666;
+    cursor: pointer;
+    display: none;
+    float: right;
+    font-size: 18px;
+    height: 17px;
+    margin-left: 10px;
+    padding: 1px 2px;
+    text-decoration: none;
+    width: 13px;
+    position: absolute;
+    right: 17px;
+    top: 9px;
+}
+
+/* margins removed due to bug#11645*/
+
+.qq-uploader .qq-upload-success .qq-upload-remove,
+.qq-uploader .qq-upload-failed .qq-upload-remove {
+    display: block
+}
+
+.showUploadCustomCv.disable {
+    pointer-events: none;
+}
+
+#applyforjob.disable {
+    pointer-events: none;
+    background-color: gray !important;
+}
+
+@-moz-keyframes qq-upload-spinner {
+    0% {
+        -moz-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes qq-upload-spinner {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes qq-upload-spinner {
+    0% {
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+/* :not(:required) hides this rule from IE9 and below */
+
+.qq-upload-spinner:not(:required) {
+    -moz-animation: qq-upload-spinner 1250ms infinite linear;
+    -webkit-animation: qq-upload-spinner 1250ms infinite linear;
+    animation: qq-upload-spinner 1250ms infinite linear;
+    border: 4px solid #38e;
+    border-right-color: transparent;
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 16px;
+    height: 16px;
+}

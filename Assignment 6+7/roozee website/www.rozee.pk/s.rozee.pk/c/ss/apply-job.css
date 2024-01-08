@@ -1,0 +1,1032 @@
+.mapplyjob {
+    /*font-size: 16px;*/
+}
+
+@font-face {
+    font-family: 'rzn';
+    src: url('../../mobile/f/rz.eot?p23456g51b');
+    src: url('../../mobile/f/rz.eot?p23456g51b#iefix') format('embedded-opentype'), url('../../mobile/f/rz.ttf?p23456g51b') format('truetype'), url('../../mobile/f/rz.woff?p23456g51b') format('woff'), url('../../mobile/f/rz.svg?p23456g51b#rz') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.mapplyjob i[class^="rz-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'rzn' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.mapplyjob .radiobtn label {
+    /*padding-left: 0px;*/
+    cursor: pointer;
+}
+
+.mapplyjob .rz-delete1:before {
+    content: "\e90e";
+}
+
+.mapplyjob .rz-edit1:before {
+    content: "\e910";
+}
+
+.mapplyjob .rz-lock:before {
+    content: "\e913";
+}
+
+.mapplyjob #applystep1>.alert {
+    margin-top: 30px;
+}
+
+.mapplyjob .form-control.is-invalid {
+    /* border-color: #dc3545;*/
+}
+
+.mapplyjob .border-danger {
+    /*      border:1px solid #dc3545;
+*/
+}
+
+.mapplyjob .rz-tick:before {
+    content: "\e943";
+}
+
+.mapplyjob .invalid-feedback {
+    color: #dc3545;
+}
+
+.mapplyjob .rz-ndelete:before {
+    content: "\e903";
+}
+
+.mapplyjob .rz-nedit:before {
+    content: "\e904";
+}
+
+.mapplyjob .rz-locked:before {
+    content: "\e940";
+}
+
+.mapplyjob .rz-plus:before {
+    content: "\e942";
+}
+
+.mapplyjob .rz-delete:before {
+    content: "\e903";
+}
+
+.mapplyjob .rz-add:before {
+    content: "\e96b";
+}
+
+.mapplyjob .rz-edit:before {
+    content: "\e904";
+}
+
+.mapplyjob .rz-download:before {
+    content: "\e90f";
+}
+
+.mapplyjob .rz-locked:before {
+    content: "\e940";
+}
+
+.mapplyjob .pd10 {
+    padding: 10px;
+}
+
+.mapplyjob .suggest .sugCont {
+    width: 100% !important;
+}
+
+.mapplyjob .pd10 .btn-block {
+    width: 100%;
+}
+
+.progress {
+    height: 0.5em;
+}
+
+.profile .progress {
+    width: 8.75rem;
+    height: 8.75rem;
+    line-height: 8.75rem;
+    background: none;
+    margin: 0 auto;
+    box-shadow: none;
+    position: relative;
+}
+
+.profile .progress:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 0.3125rem solid #eeeeee;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.profile .progress>span {
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+
+.profile .progress .progress-left {
+    left: 0;
+}
+
+.mapplyjob .close {
+    margin: -8px;
+}
+
+.mapplyjob .close i {
+    font-size: 1.2rem;
+}
+
+.mapplyjob .container.new {
+    margin-top: 20px;
+    padding: 0px;
+}
+
+.profile .progress .progress-bar {
+    width: 100%;
+    height: 100%;
+    background: none;
+    border-width: 0.3125rem;
+    border-style: solid;
+    position: absolute;
+    top: 0;
+    border-color: #00c853;
+}
+
+.profile .progress .progress-left .progress-bar {
+    left: 100%;
+    border-top-right-radius: 75px;
+    border-bottom-right-radius: 75px;
+    border-left: 0;
+    -webkit-transform-origin: center left;
+    transform-origin: center left;
+}
+
+.profile .progress .progress-right {
+    right: 0;
+}
+
+.profile .progress .progress-right .progress-bar {
+    left: -100%;
+    border-top-left-radius: 75px;
+    border-bottom-left-radius: 75px;
+    border-right: 0;
+    -webkit-transform-origin: center right;
+    transform-origin: center right;
+}
+
+.profile .progress .progress-value {
+    display: flex;
+    border-radius: 50%;
+    font-size: 36px;
+    text-align: center;
+    line-height: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-weight: 300;
+}
+
+.profile .progress .progress-value div {
+    margin-top: 10px;
+}
+
+.profile .progress .progress-value span {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+/* This for loop creates the  necessary css animation names 
+Due to the split circle of progress-left and progress right, we must use the animations on each side. 
+*/
+
+.profile .progress[data-percentage="10"] .progress-right .progress-bar {
+    animation: loading-1 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="10"] .progress-left .progress-bar {
+    animation: 0;
+}
+
+.profile .progress[data-percentage="20"] .progress-right .progress-bar {
+    animation: loading-2 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="20"] .progress-left .progress-bar {
+    animation: 0;
+}
+
+.profile .progress[data-percentage="30"] .progress-right .progress-bar {
+    animation: loading-3 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="30"] .progress-left .progress-bar {
+    animation: 0;
+}
+
+.profile .progress[data-percentage="40"] .progress-right .progress-bar {
+    animation: loading-4 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="40"] .progress-left .progress-bar {
+    animation: 0;
+}
+
+.profile .progress[data-percentage="50"] .progress-right .progress-bar {
+    animation: loading-5 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="50"] .progress-left .progress-bar {
+    animation: 0;
+}
+
+.profile .progress[data-percentage="60"] .progress-right .progress-bar {
+    animation: loading-5 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="60"] .progress-left .progress-bar {
+    animation: loading-1 1.5s linear forwards 1.5s;
+}
+
+.profile .progress[data-percentage="70"] .progress-right .progress-bar {
+    animation: loading-5 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="70"] .progress-left .progress-bar {
+    animation: loading-2 1.5s linear forwards 1.5s;
+}
+
+.profile .progress[data-percentage="80"] .progress-right .progress-bar {
+    animation: loading-5 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="80"] .progress-left .progress-bar {
+    animation: loading-3 1.5s linear forwards 1.5s;
+}
+
+.profile .progress[data-percentage="90"] .progress-right .progress-bar {
+    animation: loading-5 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="90"] .progress-left .progress-bar {
+    animation: loading-4 1.5s linear forwards 1.5s;
+}
+
+.profile .progress[data-percentage="100"] .progress-right .progress-bar {
+    animation: loading-5 1.5s linear forwards;
+}
+
+.profile .progress[data-percentage="100"] .progress-left .progress-bar {
+    animation: loading-5 1.5s linear forwards 1.5s;
+}
+
+@keyframes loading-1 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(36);
+        transform: rotate(36deg);
+    }
+}
+
+@keyframes loading-2 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(72);
+        transform: rotate(72deg);
+    }
+}
+
+@keyframes loading-3 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(108);
+        transform: rotate(108deg);
+    }
+}
+
+@keyframes loading-4 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(144);
+        transform: rotate(144deg);
+    }
+}
+
+@keyframes loading-5 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(180);
+        transform: rotate(180deg);
+    }
+}
+
+.progress {
+    margin-bottom: 1em;
+}
+
+.mapplyjob .saved-item .action a,
+a.paction {
+    padding: 10px;
+    background: #ebf2fd;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0 0.3125rem;
+    text-align: center;
+    text-decoration: none;
+    line-height: 1rem;
+    cursor: pointer;
+}
+
+.mapplyjobf .font25 {
+    margin-top: 0px;
+}
+
+.font25 {
+    /* font-size: 25px;*/
+}
+
+#skillsView .content {
+    margin-top: 10px;
+}
+
+.mapplyjob .smp>div {
+    text-align: center;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.mapplyjob .saved-item .item {
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.mapplyjob .saved-item .item:last-child {
+    border-bottom: 0px;
+}
+
+.mapplyjob .col {
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+.mapplyjob .bg {
+    background: #f6f6f6;
+}
+
+.mapplyjob .pd10 {
+    padding: 10px;
+}
+
+.mapplyjob .pd-h-10 {
+    padding: 0 10px;
+}
+
+.mapplyjob .pd-h-20 {
+    padding: 0 20px;
+}
+
+.mapplyjob .mb15 {
+    margin-bottom: 15px;
+}
+
+.mapplyjob .pd20 {
+    padding: 20px;
+}
+
+.mapplyjob .pt10 {
+    padding-top: 10px !important;
+}
+
+.mapplyjob .pb10 {
+    padding-bottom: 10px !important;
+}
+
+.mapplyjob .pd30 {
+    padding: 30px;
+}
+
+.mapplyjob .pd40 {
+    padding: 40px;
+}
+
+.mapplyjob .pd0 {
+    padding: 0px;
+}
+
+.mapplyjob .pt0 {
+    padding-top: 0px;
+}
+
+.mapplyjob .pb0 {
+    padding-bottom: 0px;
+}
+
+.mapplyjob .mr10 {
+    margin-right: 10px;
+}
+
+.ordivider,
+.divider {
+    border-bottom: 1px solid #e0e0e0;
+    position: relative;
+}
+
+.light.divider {
+    border-color: #f0f0f0;
+}
+
+.bold.divider {
+    border-width: 2px;
+}
+
+.highlight-border {
+    border-top: 4px solid #4688f1;
+}
+
+.round-border-icn {
+    border: 0.25rem solid #4688f1;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    line-height: 40px;
+}
+
+.round-border-icn.green {
+    border-color: #00c853;
+    color: #00c853;
+}
+
+.round-border-icn.green i {
+    color: #00c853 !important;
+}
+
+.ordivider span {
+    background: #fff;
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    padding: 0 20px;
+}
+
+.mapplyjob form label {
+    /*font-size: 18px;*/
+}
+
+.mapplyjob .btn {
+    border-radius: 25px;
+    /* font-size: 18px;*/
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+.mapplyjob .btn.btn-lg {
+    padding: 11px 38.4px;
+}
+
+.mapplyjob .btn.btn-md {
+    padding: 11px 28.8px;
+}
+
+.mapplyjob .btn.btn-sm {
+    padding: 3.4px 20.8px;
+}
+
+.mapplyjob .btn-primary {
+    /*background: #4688f1; border-color: #4688f1;*/
+    color: #fff !important;
+}
+
+.mapplyjob .btn-secondary {
+    /*background:transparent; border:2px solid #4688f1; color:#4688f1 !important;*/
+}
+
+.mapplyjob .btn-secondary:hover,
+.mapplyjob .btn-secondary:focus,
+.mapplyjob .btn-secondary:active {
+    /* background: #4688f1 !important; border-color: #4688f1 !important; color: #fff !important;*/
+}
+
+.btn-yellow,
+.btn-yellow:hover,
+.btn-yellow:active,
+.btn-yellow:focus {
+    background: #f6b726;
+    color: #fff;
+    border-color: #f6b726;
+}
+
+.mapplyjob .heading {
+    /* font-size: 22px;*/
+    font-weight: 600;
+    color: #212121;
+}
+
+.mapplyjob .font34 {
+    /*font-size:34px;*/
+}
+
+.mapplyjob .font14 {
+    /*font-size: 14px;*/
+}
+
+.mapplyjob .font16 {
+    /*font-size: 16px;*/
+}
+
+.mapplyjob .font24 {
+    /*font-size:24px;*/
+}
+
+.mapplyjob .font20 {
+    /*font-size: 20px;*/
+}
+
+.mapplyjob .font26 {
+    /*font-size: 26px;*/
+}
+
+.mapplyjob .font12 {
+    /*font-size:12px;*/
+}
+
+.mapplyjob .font10 {
+    /*font-size:10px;*/
+}
+
+.mapplyjob .font-weight-bold {
+    font-weight: 600;
+}
+
+.text-light-gray {
+    color: #757575 !important;
+}
+
+.text-dgray {
+    color: #a0a0a0 !important;
+}
+
+.mapplyjob .font18 {
+    /* font-size:18px !important;*/
+}
+
+.btn-link,
+.btn-link:hover,
+.btn-link:active,
+.btn-link:focus {
+    font-weight: 300;
+    color: #212121;
+    text-decoration: none;
+}
+
+.btn-link.blue {
+    /* color: #4688f1;*/
+}
+
+.checkbox {
+    display: block;
+    position: relative;
+    line-height: 16px;
+    padding-top: 2px;
+    cursor: pointer;
+    font-size: 16px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin-top: 5px;
+}
+
+.checkbox label {
+    /*font-size: 16px;*/
+    cursor: pointer;
+    /* padding-left: 0px;*/
+}
+
+/* Hide the browser's default checkbox */
+
+.checkbox input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 1;
+}
+
+/* When the checkbox is checked, add a blue background */
+
+.checkbox input:checked~.checkmark {
+    background-color: /* #4688f1;*/
+    border-color:/* #4688f1;*/
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the checkmark when checked */
+
+.checkbox input:checked~.checkmark:after {
+    display: block;
+}
+
+/* Style the checkmark/indicator */
+
+.checkbox .checkmark:after {
+    left: 5px;
+    top: 1px;
+    width: 6px;
+    height: 11px;
+    border: solid #ffffff;
+    border-width: 0 2.2px 2.2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+/* Customize the label (the container) */
+
+.radiobtn {
+    display: block;
+    position: relative;
+    /*padding-left: 25px;*/
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 1rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.radiobtn label {
+    font-size: 1rem;
+}
+
+/* Hide the browser's default radio button */
+
+.radiobtn input {
+    position: absolute;
+    opacity: 0;
+}
+
+/* Show the indicator (dot/circle) when checked */
+
+.radiobtn input:checked~.rcheckmark:after {
+    display: block;
+}
+
+/* Style the indicator (dot/circle) */
+
+.radiobtn .rcheckmark:after {
+    top: 3px;
+    left: 3px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: white;
+}
+
+.thjob {
+    border: 0px;
+    margin-top: 0px;
+}
+
+.thjob .media .logo {
+    border: 1px solid #d0d1d4;
+    padding: 10px;
+    height: 70px;
+    width: 70px;
+}
+
+.thjob .close {
+    /* font-size: 18px;*/
+}
+
+/*.thjob .media .logo img{ height: 100%;}*/
+
+.thjob .title {
+    /*font-size: 24px; */
+    margin: 0px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+.thjob .where {
+    /*font-size: 18px; */
+    color: #616161;
+    position: relative;
+}
+
+.thjob .cname {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: inline-block;
+    width: 100%;
+}
+
+.primary-form .fileChosen {
+    /* border:2px dashed #4688f1;*/
+    /* color: #4688f1;*/
+    background: #ecf3fe;
+}
+
+.thjob.border-0 {
+    margin-top: 0px;
+}
+
+.primary-form .form-control {
+    padding: 0.625rem;
+    font-size: 1rem;
+    font-weight: 400;
+    height: 2.75rem !important;
+    border: 0;
+    border-radius: 4px;
+    border: 2px solid #e0e0e0;
+    box-shadow: none !important;
+    background: #fff !important;
+    color: #212121;
+    margin: 0;
+    transition: ease-in-out .2s;
+    position: relative;
+    z-index: 2;
+}
+
+.profile .info .userimg {
+    width: 8.75rem;
+    height: 8.75rem;
+    border-radius: 50%;
+}
+
+.border-0 {
+    border: 0 !important;
+}
+
+.primary-form .form-control {
+    padding: 10px;
+    /* font-size: 16px;*/
+    font-weight: 400;
+    height: 44px !important;
+    border: 0;
+    border-radius: 4px;
+    border: 2px solid #e0e0e0;
+    box-shadow: none !important;
+    background: #fff !important;
+    color: #212121;
+    margin: 0;
+    transition: ease-in-out .2s;
+    position: relative;
+    z-index: 2;
+}
+
+.primary-form textarea.form-control {
+    height: auto !important;
+    line-height: 16px;
+}
+
+.primary-form .row [class^="col"],
+.custom.row [class^="col"] {
+    padding: 0 5px;
+}
+
+.primary-form .custom.row {
+    margin: 0px;
+}
+
+.primary-form .btn-group-toggle.radio {
+    display: flex;
+}
+
+.primary-form .btn-group-toggle.radio label {
+    flex: 1;
+    border-radius: 4px;
+    padding: 7px !important;
+    border-color: #e0e0e0;
+    color: #212121 !important;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.primary-form .btn-group-toggle.radio label.focus {
+    outline: 0px;
+    border-color: #e0e0e0;
+    box-shadow: none;
+}
+
+.primary-form .btn-group-toggle.radio label.active {
+    /*background: #4688f1 !important;*/
+    color: #fff !important;
+    /*  border-color: #4688f1;*/
+}
+
+.primary-form .row [class^="col"]:first-child {
+    padding-left: 0px;
+}
+
+.primary-form .row [class^="col"]:last-child {
+    padding-right: 0px;
+}
+
+.col-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+.col-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.col,
+.col-1,
+.col-10,
+.col-11,
+.col-12,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-auto {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.mapplyjob .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.mapplyjob .section.white,
+.whitebg {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+}
+
+.mapplyjob .float-right {
+    float: right;
+}
+
+.mapplyjob .float-left {
+    float: left;
+}
+
+.mapplyjob .btn-block {
+    display: inline-block;
+    width: auto;
+}
+
+.mapplyjob .media {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.mapplyjob .media-body {
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.mapplyjob .col-7 {
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+}
+
+.mapplyjob .col-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+}
+
+.mr-3,
+.mx-3 {
+    margin-right: 16px !important;
+}
+
+.mapplyjob .modal-body {
+    padding-bottom: 20px;
+    min-height: 100px;
+    background: #f6f6f6;
+}
+
+.mapplyjob .highlight {
+    font-size: inherit;
+}
+
+.mapplyjob .loader .loading {
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    margin-left: -20px;
+    left: 50%;
+}
+
+.mapplyjob .selectize-dropdown [data-selectable] {
+    padding: 0.4375rem 0.625rem;
+    font-size: 16px;
+}
+
+.mapplyjob h3 {
+    margin-top: 0px;
+}
+
+.mapplyjob .section {
+    padding: 0px;
+}
+
+.d-none {
+    display: none !important;
+}
+
+.position-relative {
+    position: relative !important;
+}
+
+.ajxUploaderCnt .sml {
+    padding-left: 0.6rem;
+    float: right;
+    margin-bottom: 5px;
+}
+
+.qq-uploader ul li {
+    padding-left: 0.6rem;
+    float: right;
+    margin: 7px 0;
+}
+
+.applyingjob .sml {
+    padding-left: 140px !important;
+}
+
+.applyingjob .qq-upload-button img {
+    display: none;
+}
+
+.applyingjob .qq-upload-button {
+    height: 34px;
+    /* width: 110px !important; */
+    background-image: url('../../c/i/uploadqq.png?v=1');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.applyingjob .qq-upload-success img {
+    max-height: 100px;
+    height: auto;
+    max-width: 250px;
+    width: auto;
+}

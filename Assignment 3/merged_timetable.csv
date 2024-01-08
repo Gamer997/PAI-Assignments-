@@ -1,0 +1,188 @@
+Monday,"FSC
+TimeTable for Fall-2023",Unnamed: 2,Unnamed: 3,BS CS (2023),Unnamed: 5,Unnamed: 6,BS DS (2023),Unnamed: 8,Unnamed: 9,BS AI (2023),Unnamed: 11,Unnamed: 12,BS CY (2023),Unnamed: 14,Unnamed: 15,BS SE (2023),Unnamed: 17,Unnamed: 18,"BS Electives (19 Batch, CS/AI/SE)",Unnamed: 20,Unnamed: 21,MS (CS),Tuesday,"BS Electives (19 Batch, CS/AI/DS/CY)",Wednesday,Thursday
+,,,,BS CS (2022),,,BS DS (2022),,,BS AI (2022),,,BS CY (2022),,,BS SE (2022),,,Repeat Courses,,,MS (DS),,,,
+,,,,BS CS (2021),,,BS DS (2021),,,BS AI (2021),,,BS CY (2021),,,BS SE (2021),,,MS Electives (All Prgrms),,,MS (SE),,,,
+,,,,BS CS (2020),,,BS DS (2020),,,BS AI (2020),,,BS CY (2020),,,BS SE (2020),,,MS (AI),,,MS (CNS),,,,
+Room,08:30-09:50,,,10:00-11:20,,,11:30-12:50,,,01:00-02:20,,,02:30-03:50,,,03:55-05:15,,,05:20-06:40 ,,,06:45-08:05,,,,
+C-301,Func Eng (CS-A) 08:30-10:15,,,,,,PF (CS-A),,,AP (CS-A),,,Calculus (CS-A),,,,,,Adv OS,,,Adv Algo,,,,
+C-302,AP (CS-B),,,PF (CS-B),,,Calculus (CS-B),,,,Func Eng (CS-B) 02:00-03:45,,,,,Info Sec (CS-F) ReSch,,,Adv Comp Net,,,,,,,
+C-303,PF (CS-C),,,Calculus (CS-C),,,Islamic (CS-C) 11:30-01:15,,,,Islamic (CS-D) 02:00-03:45,,,,,Calculus (CS-D) ReSch,,,Adv Qual Assur,,,Adv S/w Arch,,,,
+C-304,Calculus (CS-D),,,PF (CS-D),,,AP (CS-D),,,Automata (CS-E),,,AP (CS-C),,,,,,Deep Learning,,,Adv AI,,,,
+C-305,Reserved for HoD (CS),,,TBW (CS-F/H),,,,,,,,,Func Eng (AI-A) 02:30-04:15 ReSch,,,,,,Stat & Math for DS,,,DS Tools & Tech,,,,
+C-307,Calculus (AI-B),,,AP (AI-B),,,PF (AI-B),,,Calculus (AI-A),,,OS (AI-J),,,,,,,,,,,,,
+C-308,AP (CY-B),,,PF (CY-B),,,Calculus (CY-B),,,AP (CY-A),,,Islamic (A),,,,,,,,,,,,,
+C-309,AP (AI-A),,,PF (AI-A),,,Stat & Modeling (CS-F/G),,,Islamic (CS-E) 01:15-03:00,,,,Islamic (CS-F) 03:05-04:50,,,,,,,,,,,,
+C-310,Func Eng (CS-G) 08:30-10:15,,,,,,Data St (CS-H),,,Data St (CS-C),,,S/w Re-Engg (SE-R),,,,,,,,,,,,,
+C-311,Discrete (CS-B),,,Discrete (CS-A),,,COAL (CS-A),,,COAL (CS-B),,,,LA (CS-A) 03:00-04:20,,,,,,,,,,,,
+C-401,PF (CY-A),,,Calculus (CY-A),,,LA (CS-J),,,LA (CS-K),,,PPIT (CS-A),,,Info Sec (CS-A),,,,,,,,,,
+C-402,COAL (CS-D),,,LA (CS-D),,,Data St (CS-D),,,Cloud Comp (SE-A),,,Info Sec (CS-B),,,PPIT (CS-B),,,,,,,,,,
+C-403,Data St (CS-E),,,COAL (CS-E),,,Discrete (CS-E),,,LA (SE-E),,,PPIT (CS-C),,,Info Sec (CS-C),,,,,,,,,,
+C-404,Ideology of Pak (DS-C) 08:30-10:15,,,,,,Fund of SE (CY-C),,,S/w Req Engg (SE-C) ReSch,,,"OOP (CS-A, 22)",,,"OOP (CS-B, 22)",,,,,,,,,,
+C-405,Data St (SE-A),,,Data St (CS-F),,,DLD (CY-D),,,Fund of SE (CY-D),,,DLD (CY-C),,,,,,,,,,,,,
+C-406,LA (SE-F),,,LA (SE-G),,,HCI (SE-A),,,S/w Req Engg (SE-A),,,Fund of Mgt (SE-A),,,,,,,,,,,,,
+C-407,SE,,,Data St (SE-B),,,S/w Req Engg (SE-B),,,HCI (SE-B),,,Mktg Mgt (CS-C),,,Mktg Mgt (SE-C),,,,,,,,,,
+C-408,HCI (SE-C),,,S/w Req Engg (SE-C),,,Data St (SE-C),,,Data St (SE-D),,,Freelancing (CS-C),,,,,,,,,,,,,
+C-409,S/w Req Engg (SE-D),,,HCI (SE-D),,,TBW (CS-B/Z),,,Automata (CS-D),,,"OS (CS-A,21)",,,"OS (CS-B,21)",,,,,,,,,,
+C-410,Comp Net (CS-E),,,SDA (CS-E),,,Automata (CS-C),,,SDA (CS-A),,,PPIT (DS-N),,,"DB (CS-D,21)",,,,,,,,,,
+B-130,SDA (CS-C),,,Data St (SE-F) ReSch,,,Comp Net (CS-A/Y),,,,,,,,,Deep Learn (DS-N),,,,,,,,,,
+B-227,Automata (CS-A),,,Automata (CS-Y),,,SDA (CS-D),,,SDA (CS-Y),,,"Diff Eq (D, 22)",,,"Diff Eq (E, 22)",,,,,,,,,,
+B-229,TBW (CS-G),,,Stat & Modeling (CS-B),,,Robo Tech (CS-Robo),,,Stat & Modeling (CS-Z),,,,,,,,,,,,,,,,
+B-230,Stat & Modeling (CS-H),,,AI (CS-A),,,Fund of SE (CY-A) ReSch,,,,,,,,,,,,,,,,,,,
+A-108,Algo (DS-M),,,Algo (DS-N),,,MLOPs (AI-JK),,,Blockchain & Crypto (AI-JK),,,Comp Vision (AI-J),,,Comp Vision (AI-K),,,,,,,,,,
+A-211,Algo (AI-J),,,ML (AI-J),,,Knowl Rep (AI-J),,,,,,,,,,,,,,,,,,,
+A-301,OS (AI-K),,,Knowl Rep (AI-K),,,Algo (AI-K),,,ML (AI-K),,,"DB (CS-C,21)",,,Pak Studies (A),,,,,,,,,,
+A-302,Algo (CY-T),,,Data St (CS-G),,,Algo (SE-P),,,OS (SE-P),,,,,,,,,,,,,,,,
+A-303,TBW (DS-N),,,TBW (DS-M),,,OS (SE-Q),,,Algo (SE-Q),,,,,,,,,,,,,,,,
+A-305,COAL (CS-C),,,LA (CS-C),,,LA (CS-B),,,,,,"OOP (CY-A, 22)",,,,,,,,,,,,,
+A-310,Ethical Hacking,,,"OOP (AI/DS-A, 22)",,,"OOP (AI/DS-B, 22)",,,,,,,,,,,,,,,,,,,
+A-311,"OOP (AI/DS-C, 22)",,,Deep Learning (A),,,DIP,,,,,,,,,,,,,,,,,,,
+A-314,Data St (SE-G) ReSch,,,Cloud Comp (SE-B),,,AI (CS-B),,,,,,,,,,,,,,,,,,,
+A-315,Islamic (CS-F) ReSch,,,FSM,,,Islamic (CS-E) ReSch,,,,,,,,,,,,,,,,,,,
+A-316,,,,FSM,,,FSM,,,FSM,,,FSM,,,FSM,,,,,,,,,,
+C-110,SMD (A),,,Comp Net (CS-C/D),,,SMD (B),,,Reserved,,,,,,,,,,,,,,,,
+Seminar A,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,BS CS (2022),,,BS DS (2022),,,BS AI (2022),,,BS CY (2022),,,BS SE (2022),,,,,,MS (DS),,Repeat Courses,,
+,,,,BS CS (2021),,,BS DS (2021),,,BS AI (2021),,,BS CY (2021),,,BS SE (2021),,,,,,MS (SE),,MS Electives (All Prgrms),,
+,,,,BS CS (2020),,,BS DS (2020),,,BS AI (2020),,,BS CY (2020),,,BS SE (2020),,,,,,MS (CNS),,MS (AI),,
+,08:30-09:50,,,10:00-11:20,,,11:30-12:50,,,01:00-02:20,,,02:30-03:50,,,03:55-05:15,,,,,,06:45-08:05,Room,05:20-06:40 ,,
+,PF (CS-E),,,AP (CS-E),,,Func Eng (CS-E) 11:30-01:15,,,,Islamic (CS-G) 02:00-03:45,,,,,OS (CY-T),,,,,,Ethical Hacking,C-301,App Prog (CS/SE/CNS),,
+,Calculus (CS-F),,,PF (CS-F),,,TBW (CS-D),,,AP (CS-F),,,"OOP (CS-C, 22)",,,"OOP (CS-D, 22)",,,,,,Emperical SE,C-302,Math Found of AI,,
+,AP (CS-G),,,Calculus (CS-G),,,PF (CS-G),,,Discrete (CS-F),,,,Func Eng (CS-F) 02:30-04:15,,,,,,,,NLP,C-303,NLP,,
+,SDA (CS-B),,,Comp Net (CS-B/Z),,,Comp Net (CS-F/H),,,S/w Req Engg (SE-E),,,Calculus (CS-E),,,"Algo (CS-B, 21)",,,,,,Cloud Computing,C-304,Responsible Design,,
+,Islamic (CS-B) 08:30-10:15,,,,,,,Func Eng (CS-C) 12:30-02:15,,,,,Psychology,,,,,,,,,,C-305,App Image Processing,,
+,Func Eng (CS-D) 08:30-10:15,,,,,,LA (SE-D),,,AP (DS-C),,,"OOP (SE-A, 22)",,,"OOP (SE-B, 22)",,,,,,,C-307,ML for CySec,,
+,Calculus (DS-B),,,PF (DS-B),,,AP (DS-B),,,Calculus (DS-A),,,German Lang (SE),,,German Lang (CS),,,,,,Data St (MS Def),C-308,Data St (MS Def),,
+,Discrete (CS-K),,,Data St (CS-K),,,DataWare (DS-N),,,DLD (AI-A),,,"Algo (CS-A,21)",,,"Algo (CS-D,21)",,,,,,,C-309,,,
+,AP (SE-B),,,PF (SE-B),,,Calculus (SE-B),,,Calculus (SE-A),,,Fund of Mgt,,,Fund of Mgt (SE-C),,,,,,,C-310,,,
+,Sec S/w Design (CY-M),,,LA (SE-C),,,LA (CS-E),,,LA (CS-G),,,Mktg Mgt (CS-A),,,Mktg Mgt (CS-B),,,,,,,C-311,,,
+,PF (SE-A),,,AP (SE-A),,,Discrete (CS-C),,,Discrete (CS-H),,,Freelancing (CS-A),,,Freelancing (CS-B),,,,,,,C-401,,,
+,COAL (CS-G),,,Discrete (CS-G),,,S/w Qual Engg (SE-P),,,Web Engg (SE-P),,,PPIT (CS-D),,,Info Sec (CS-D),,,,,,,C-402,,,
+,PF (DS-C),,,Calculus (DS-C),,,Web Engg (SE-Q),,,TBW (SE-Q),,,Info Sec (CS-E),,,PPIT (CS-E),,,,,,,C-403,,,
+,S/w Qual Engg (SE-Q),,,MLOPs,,,Prob & Stats (CY-A),,,Fund of SE (CY-A),,,Info Sec (CS-F),,,PPIT (CS-F),,,,,,,C-404,,,
+,AP (DS-A),,,PF (DS-A),,,COAL (CS-K),,,COAL (CS-J),,,Islamic (B),,,Pak Studies (B),,,,,,,C-405,,,
+,Data St (CS-J),,,Discrete (CS-J),,,Fund of SE (CY-B),,,Prob & Stats (CY-B),,,Fund of Mgt (AI-A),,,Fund of Mgt (AI-B),,,,,,,C-406,,,
+,COAL (CS-H),,,LA (CS-H),,,DLD (DS-D),,,Intro to DS (DS-D),,,Mktg Mgt (AI-A),,,Mktg Mgt (AI-B),,,,,,,C-407,,,
+,Comp Net (CS-A) ReSch,,,Data St (AI-B),,,DLD (AI-B),,,Prog for AI (AI-B),,,Comp Net (DS-N),,,Info Sec (DS-N),,,,,,,C-408,,,
+,DAV (DS-M),,,DataWare (DS-M),,,OS (DS-M),,,OS (DS-N),,,"Algo (CS-C,21)",,,"Diff Eq (B, 22)",,,,,,,C-409,,,
+,DLD (DS-A),,,Intro to DS (DS-A),,,Data St (DS-A),,,Prob & Stats (DS-A),,,"Diff Eq (C, 22)",,,"Diff Eq (A, 22)",,,,,,,C-410,,,
+,Intro to DS (DS-B),,,DLD (DS-B),,,Prob & Stats (DS-B),,,Data St (DS-B),,,,,,,,,,,,,B-130,,,
+,TBW (SE-P),,,DLD (DS-C),,,Data St (SE-E),,,,,,HCI (SE-E),,,,,,,,,,B-227,,,
+,Net & Cy Sec-I (CY-C),,,HCI (SE-G),,,S/w Req Engg (SE-G),,,Data St (SE-G),,,Freelancing (CS-C),,,,,,,,,,B-229,,,
+,LA (CS-F),,,S/w Req Engg (SE-F),,,Data St (SE-F),,,HCI (SE-F),,,Mktg Mgt (SE-A),,,Mktg Mgt (SE-B),,,,,,,B-230,,,
+,LA (SE-B),,,"OS (CS-B,21) ReSch",,,Deep Learning (B),,,Automata (CS-Z),,,Digital Mktg (CY-T),,,,,,,,,,A-108,,,
+,COAL (CS-Z),,,Prob & Stats (CY-C),,,Automata (CS-B),,,SDA (CS-F),,,"OS (CS-C,21)",,,"OS (CS-D,21)",,,,,,,A-211,,,
+,Prob & Stats (CY-D),,,Net & Cy Sec-I (CY-D),,,Data St (CY-C/D),,,PDC (CY-M),,,Info Assurance (CY-M),,,,,,,,,,A-301,,,
+,SDA (CS-G),,,Comp Net (CS-G),,,Automata (CS-G),,,SDA (CS-H),,,"DB (SE, 21)",,,,,,,,,,A-302,,,
+,TBW (CS-E),,,Automata (CS-H),,,DevOps (A),,,DevOps (B),,,"OOP (AI/DS-C, 22)",,,,,,,,,,A-303,,,
+,Stat & Modeling (CS-D),,,DAV (DS-N),,,TBW (CS-A/Y),,,DB (CY-T),,,S/w Re-Engg (SE-P),,,Fund of SPM (SE-P),,,,,,,A-305,,,
+,Automata (CS-F),,,TBW (CS-C),,,SDA (CS-Z),,,NLP,,,Fund of SPM (SE-Q),,,S/w Re-Engg (SE-Q),,,,,,,A-310,,,
+,Data St (AI-A),,,Prog for AI (AI-A),,,NLP (SE),,,PDC,,,"DB (CS-A,21)",,,"DB (CS-B, 21)",,,,,,,A-311,,,
+,Discrete (CS-Z),,,COAL (CS-F),,,TBW (AI-J),,,TBW (AI-K),,,,,,,,,,,,,A-314,,,
+,TBW (DS-U),,,Discrete (CS-D),,,Net & Cy Sec-II (CY-T) 11:35-12:55,,,COAL (CS-C) ReSch,,,,,,,,,,,,,A-315,,,
+,Blockchain & Crypto (SE),,,Stat & Modeling (CS-A),,,Stat & Modeling (CS-E),,,Stat & Modeling (CS-Y/C),,,,,,,,,,,,,A-316,,,
+,Cloud Comp,,,Fund of SPM (SE-R),,,Blockchain & Crypto,,,Reserved by Dr. Hasan,,,Reserved by Dr. Hasan,,,Reserved by Dr. Hasan,,,,,,,C-110,,,
+,Data St (CS-B),,,Data St (CS-A),,,LA (SE-A),,,,,,,,,,,,,,,,Seminar A,,,
+,,,,,,,,,,,,,,,,,,,,,,,B-129,,,
+,,,,BS CS (2022),,,BS DS (2022),,,BS AI (2022),,,BS CY (2022),,,BS SE (2022),,,,,,MS (DS),,Repeat Courses,,
+,,,,BS CS (2021),,,BS DS (2021),,,BS AI (2021),,,BS CY (2021),,,BS SE (2021),,,,,,MS (SE),,MS Electives (All Prgrms),,
+,,,,BS CS (2020),,,BS DS (2020),,,BS AI (2020),,,BS CY (2020),,,BS SE (2020),,,,,,MS (CNS),,MS (AI),,
+,08:30-09:50,,,10:00-11:20,,,11:30-12:50,,,01:00-02:20,,,02:30-03:50,,,03:55-05:15,,,,,,06:45-08:05,,05:20-06:40 ,Room,
+,SE,,,PF (CS-B),,,Calculus (CS-B),,,Calculus (CS-A),,,"OOP (CS-A, 22)",,,"OOP (CS-B, 22)",,,,,,DS Tools & Tech,,Stat & Math for DS,C-301,
+,HCI (SE-C),,,AP (CS-A),,,Algo (SE-P),,,OS (SE-P),,,OS (AI-J),,,Info Sec (CS-F) ReSch,,,,,,Adv Algo,,Adv OS,C-302,
+,PF (CS-C),,,Calculus (CS-C),,,OS (SE-Q),,,Algo (SE-Q),,,"OOP (CY-A, 22)",,,"OOP (CY-B, 22)",,,,,,Applied Info Sec,,Applied Info Sec,C-303,
+,Calculus (CS-D),,,PF (CS-D),,,AP (CS-D),,,AP (CS-C),,,S/w Re-Engg (SE-R),,,,,,,,,Adv S/w Arch,,Adv Qual Assur,C-304,
+,AP (AI-A),,,PF (AI-A),,,Func Eng (AI-A) 11:30-01:15,,,,Func Eng (AI-B) 02:00-03:45,,,,,,,,,,,Adv AI,,Deep Learning,C-305,
+,Calculus (AI-B),,,AP (AI-B),,,PF (AI-B),,,AP (CS-B),,,Fund of Mgt (SE-A),,,Digital Mktg (CY-T),,,,,,,,,C-307,
+,PF (CY-A),,,Calculus (CY-A),,,Ideology of Pak (CY-A) 11:30-01:15,,,,Ideology of Pak (CY-B) 02:00-03:45,,,,,,,,,,,,,,C-308,
+,Data St (CS-E),,,COAL (CS-E),,,Discrete (CS-E),,,,,,,,,,,,,,,,,,C-309,
+,Ideology of Pak (DS-B) 08:30-10:15,,,,,,TBW (CS-B/Z),,,Ideology of Pak (DS-A) 01:00-02:45,,,,,,,,,,,,,,,C-310,
+,Func Eng (SE-B) 08:30-10:15,,,,,,PF (CS-A),,,Func Eng (SE-A) 01:00-02:45,,,,LA (CS-A) 03:00-04:20,,,,,,,,,,,C-311,
+,Discrete (CS-B),,,Discrete (CS-A),,,COAL (CS-A),,,LA (CS-K),,,PPIT (CS-A),,,PPIT (CS-B),,,,,,,,,C-401,
+,COAL (CS-C),,,LA (CS-C),,,LA (CS-B),,,COAL (CS-B),,,PPIT (CS-C),,,Info Sec (CS-C),,,,,,,,,C-402,
+,COAL (CS-D),,,LA (CS-D),,,Data St (CS-D),,,Data St (CS-C),,,Info Sec (CS-B),,,Info Sec (CS-A),,,,,,,,,C-403,
+,AP (CY-B),,,PF (CY-B),,,Calculus (CY-B),,,,,,AP (CY-A),,,,,,,,,,,,C-404,
+,Algo (DS-M),,,Data St (CS-G),,,Data St (CS-H),,,Automata (CS-D),,,,,,,,,,,,,,,C-405,
+,Ethical Hacking,,,Data St (CS-F),,,LA (CS-J),,,Prob & Stats (AI-A),,,Prob & Stats (AI-C),,,Prob & Stats (AI-B),,,,,,,,,C-406,
+,Algo (CY-T),,,DLD (AI-C),,,Data St (AI-C),,,Prog for AI (AI-C),,,,,,"DB (CS-D, 21)",,,,,,,,,C-407,
+,DLD (AI-D),,,Prob & Stats (AI-D),,,Prog for AI (AI-D),,,Data St (AI-D),,,PPIT (DS-N),,,Deep Learn (DS-N),,,,,,,,,C-408,
+,Data St (DS-C),,,Intro to DS (DS-C),,,Prob & Stats (DS-C),,,Fund of SE (CY-D),,,"Diff Eq (D, 22)",,,"Diff Eq (E, 22)",,,,,,,,,C-409,
+,Intro to DS (DS-D),,,Prob & Stats (DS-D),,,Data St (DS-D) ,,,Fund of SE (DS-D),,,,,,,,,,,,,,,C-410,
+,DLD (CY-A),,,Net & Cy Sec-I (CY-A),,,DLD (CY-D),,,DLD (CY-B),,,Islamic (A),,,,,,,,,,,,B-130,
+,Net & Cy Sec-I (CY-B),,,Data St (CY-B),,,Fund of SE (CY-C),,,Data St (CY-A),,,DLD (CY-C),,,,,,,,,,,,B-227,
+,Data St (SE-A),,,Data St (SE-B),,,Fund of SE (DS-B),,,Fund of SE (DS-A),,,Mktg Mgt (CS-C),,,Mktg Mgt (SE-C),,,,,,,,,B-229,
+,S/w Req Engg (SE-B),,,S/w Req Engg (SE-C),,,Data St (SE-C),,,HCI (SE-B),,,,,,,,,,,,,,,B-230,
+,,,,HCI (SE-D),,,HCI (SE-A),,,S/w Req Engg (SE-A),,,,,,,,,,,,,,,A-108,
+,S/w Req Engg (SE-D),,,LA (SE-G),,,LA (SE-F),,,LA (SE-E),,,FSM,,,FSM,,,,,,,,,A-211,
+,Comp Net (CS-E),,,SDA (CS-E),,,Automata (CS-C),,,Data St (SE-D),,,,,,Pak Studies (A),,,,,,,,,A-301,
+,SDA (CS-C),,,Comp Net (CS-C/D),,,Comp Net (CS-A/Y),,,SDA (CS-A),,,"OS (CS-A, 21)",,,"OS (CS-B, 21)",,,,,,,,,A-302,
+,Automata (CS-A),,,Automata (CS-Y),,,SDA (CS-D),,,Automata (CS-E),,,"DB (CS-C, 21)",,,,,,,,,,,,A-303,
+,TBW (CS-G),,,Algo (DS-N),,,Stat & Modeling (CS-F/G),,,SDA (CS-Y),,,,,,,,,,,,,,,A-305,
+,Stat & Modeling (CS-H),,,AI (CS-A),,,Robo Tech (CS-Robo),,,Stat & Modeling (CS-Z),,,"OOP (AI/DS-A, 22)",,,"OOP (AI/DS-B, 22)",,,,,,,,,A-310,
+,Entre (AI-JK),,,Entre (AI-JK),,,MLOPs (AI-JK),,,Blockchain & Crypto (AI-JK),,,Comp Vision (AI-J),,,Comp Vision (AI-K),,,,,,,,,A-311,
+,OS (AI-K),,,Knowl Rep (AI-K),,,Algo (AI-K),,,ML (AI-K),,,,,,,,,,,,,,,A-314,
+,Algo (AI-J),,,ML (AI-J),,,Knowl Rep (AI-J),,,,,,,,,,,,,,,,,,A-315,
+,TBW (DS-N),,,Stat & Modeling (CS-B),,,DIP,,,Cloud Comp (SE-A),,,,,,,,,,,,,,,A-316,
+,SMD (A),,,TBW (DS-M),,,SMD (B),,,,,,Sir Hassan Raza,,,Sir Hassan Raza,,,,,,,,,C-110,
+,,,,Web Prog,,,AI (CS-B),,,,,,,,,,,,,,,,,,Seminar A,
+,,,,Deep Learning (A-202),,,,,,PPIT Seminar (Auditorium),,,,,,,,,,,,,,,,
+,,,,Cloud Comp (SE-B) A-203,,,,,,,,,,,,,,,,,,,,,,
+,,,,TBW (CS-F/H) A-201,,,,,,,,,,,,,,,,,,,,,,
+,,,,BS CS (2022),,,BS DS (2022),,,BS AI (2022),,,BS CY (2022),,,BS SE (2022),,,,,,MS (DS),,Repeat Courses,,
+,,,,BS CS (2021),,,BS DS (2021),,,BS AI (2021),,,BS CY (2021),,,BS SE (2021),,,,,,MS (SE),,MS Electives (All Prgrms),,
+,,,,BS CS (2020),,,BS DS (2020),,,BS AI (2020),,,BS CY (2020),,,BS SE (2020),,,,,,MS (CNS),,MS (AI),,
+,08:30-09:50,,,10:00-11:20,,,11:30-12:50,,,01:00-02:20,,,02:30-03:50,,,03:55-05:15,,,,,,06:45-08:05,,05:20-06:40 ,,Room
+,AP (DS-A),,,PF (DS-A),,,Func Eng (DS-A) 11:30-01:15,,,,Func Eng (DS-B) 02:00-03:45,,,,,"Algo (CS-B,21)",,,,,,,,Research Methodology (DS/AI),,C-301
+,Calculus (CS-F),,,PF (CS-F),,,Calculus (AI-A),,,Ideology of Pak (AI-A) 01:15-03:00,,,,,,,,,,,,App Image Processing,,Adv Comp Net,,C-302
+,AP (CS-G),,,Calculus (CS-G),,,PF (CS-G),,,Func Eng (CY-A) 01:00-02:45,,,,Func Eng (DS-C)  03:00-04:45,,,,,,,,,,Math Found of AI,,C-303
+,SDA (CS-B),,,Comp Net (CS-B/Z),,,Comp Net (CS-F/H),,,Calculus (CS-E),,,Calculus (DS-A),,,,,,,,,ML for CySec,,Cloud Computing,,C-304
+,Calculus (DS-B),,,PF (DS-B),,,AP (DS-B),,,S/w Req Engg (SE-E),,,"OOP (SE-A, 22)",,,"OOP (SE-B, 22)",,,,,,Responsible Design,,Emperical SE,,C-305
+,PF (SE-A),,,AP (SE-A),,,Ideology of Pak (SE-A) 11:30-01:15,,,,Ideology of Pak (SE-B) 02:00-03:45,,,,,,,,,,,App Prog (CS/SE/CNS),,Ethical Hacking,,C-307
+,AP (SE-B),,,PF (SE-B),,,Calculus (SE-B),,,AP (CS-F),,,Calculus (SE-A),,,,,,,,,,,,,C-308
+,DAV (DS-M),,,DAV (DS-N),,,DataWare (DS-N) ,,,PDC (CY-M),,,Info Assurance (CY-M),,,,,,,,,,,,,C-309
+,COAL (CS-G),,,Discrete (CS-G),,,Web Engg (SE-Q),,,TBW (SE-Q),,,Fund of SPM (SE-Q),,,S/w Re-Engg (SE-Q),,,,,,,,,,C-310
+,Discrete (CS-K),,,Data St (CS-K),,,Data St (CS-J),,,LA (CS-G),,,Comp Net (DS-N),,,Info Sec (DS-N),,,,,,,,,,C-311
+,Islamic (CS-A) 08:30-10:15,,,,,,Discrete (CS-C),,,Discrete (CS-F),,,German Lang (SE),,,German Lang (CS),,,,,,,,,,C-401
+,Ideology of Pak (AI-B) 08:30-10:15,,,,,,LA (CS-E),,,COAL (CS-J),,,Psychology,,,OS (CY-T),,,,,,,,,,C-402
+,Func Eng (CY-B) 08:30-10:15,,,,,,COAL (CS-K),,,Discrete (CS-H),,,Fund of Mgt,,,Fund of Mgt (SE-C),,,,,,,,,,C-403
+,Discrete (CS-J),,,MLOPs,,,Net & Cy Sec-II (CY-T) 11:35-12:55,,,DLD (AI-A),,,Mktg Mgt (CS-A),,,Mktg Mgt (CS-B),,,,,,,,,,C-404
+,PF (DS-C),,,Calculus (DS-C),,,LA (SE-D),,,AP (DS-C),,,Freelancing (CS-A),,,Freelancing (CS-B),,,,,,,,,,C-405
+,PF (CS-E),,,AP (CS-E),,,DLD (DS-D),,,Fund of SE (DS-D),,,"Algo (CS-A, 21)",,,"Algo (CS-D, 21)",,,,,,,,,,C-406
+,DLD (DS-A),,,Intro to DS (DS-A) ,,,Data St (DS-A),,,Prob & Stats (DS-A),,,Fund of Mgt (AI-A),,,Fund of Mgt (AI-B),,,,,,,,,,C-407
+,Intro to DS (DS-B),,,DLD (DS-B),,,Prob & Stats (DS-B),,,Data St (DS-B),,,Mktg Mgt (AI-A),,,Mktg Mgt (AI-B),,,,,,,,,,C-408
+,Cloud Comp,,,DataWare (DS-M),,,OS (DS-M),,,OS (DS-N),,,Islamic (B),,,Pak Studies (B),,,,,,,,,,C-409
+,Fund of SE (DS-C),,,DLD (DS-C),,,Fund of SE (CY-B),,,Prob & Stats (CY-B),,,Mktg Mgt (SE-A),,,Mktg Mgt (SE-B),,,,,,,,,,C-410
+,Data St (CS-B),,,Data St (CS-A),,,Data St (CY-C/D),,,,,,HCI (SE-E),,,,,,,,,,,,,B-130
+,Net & Cy Sec-I (CY-C),,,Prob & Stats (CY-C),,,Prob & Stats (CY-A),,,Fund of SE (CY-A),,,,,,,,,,,,,,,,B-227
+,Prob & Stats (CY-D),,,Net & Cy Sec-I (CY-D),,,Data St (SE-E),,,COAL (CS-E) ReSch,,,"Algo (CS-C,21)",,,,,,,,,,,,,B-229
+,LA (SE-B),,,S/w Req Engg (SE-F),,,Data St (SE-F),,,HCI (SE-F),,,Info Sec (CS-F),,,PPIT (CS-F),,,,,,,,,,B-230
+,COAL (CS-Z),,,HCI (SE-G),,,S/w Req Engg (SE-G),,,Data St (SE-G),,,"OOP (CS-C, 22)",,,"OOP (CS-D, 22)",,,,,,,,,,A-108
+,Discrete (CS-Z),,,LA (SE-C),,,LA (SE-A),,,NLP,,,"OS (CS-C, 21)",,,"OS (CS-D,21)",,,,,,,,,,A-211
+,SDA (CS-G),,,Comp Net (CS-G),,,Automata (CS-G),,,SDA (CS-F),,,,,,,,,,,,,,,,A-301
+,COAL (CS-H),,,LA (CS-H),,,Automata (CS-B),,,DB (CY-T),,,"DB (CS-A, 21)",,,"DB (CS-B,21)",,,,,,,,,,A-302
+,Automata (CS-F),,,Automata (CS-H),,,DevOps (A),,,DevOps (B),,,PPIT (CS-D),,,Info Sec (CS-D),,,,,,,,,,A-303
+,TBW (CS-E),,,Stat & Modeling (CS-A),,,TBW (CS-A/Y),,,TBW (AI-K),,,Info Sec (CS-E),,,PPIT (CS-E),,,,,,,,,,A-305
+,Stat & Modeling (CS-D),,,TBW (CS-C),,,NLP (SE),,,PDC,,,"DB (SE, 21)",,,"Diff Eq (B, 22)",,,,,,,,,,A-310
+,Data St (AI-A),,,Prog for AI (AI-A),,,DLD (AI-B),,,Prog for AI (AI-B),,,"Diff Eq (C, 22)",,,"Diff Eq (A, 22)",,,,,,,,,,A-311
+,TBW (SE-P),,,Data St (AI-B),,,SDA (CS-Z),,,Automata (CS-Z),,,Takhleeq,,,,,,,,,,,,,A-314
+,S/w Qual Engg (SE-Q),,,Discrete (CS-D),,,TBW (AI-J),,,SDA (CS-H),,,,,,,,,,,,,,,,A-315
+,TBW (DS-U),,,Numerical (A-20),,,TBW (CS-D),,,Stat & Modeling (CS-Y/C),,,Reserved by Dr. Ahmed Raza,,,Reserved by Dr. Ahmed Raza,,,,,,,,,,A-316
+,Sec S/w Design (CY-M),,,,,,Blockchain & Crypto,,,Reserved,,,Reserved,,,Reserved,,,,,,,,,,C-110
+,LA (CS-F),,,COAL (CS-F),,,S/w Qual Engg (SE-P),,,Web Engg (SE-P),,,S/w Re-Engg (SE-P),,,Fund of SPM (SE-P),,,,,,,,,,Seminar A
+,Blockchain & Crypto (SE),,,Fund of SPM (SE-R),,,Stat & Modeling (CS-E),,,,,,,,,,,,,,,,,,,B-129
+,08:30-11:15,,,,,,11:25-02:10,,,,,,02:25-05:10,,,,,,,,,,,05:20 - 08:05 (inc. 10 min. break)  ,,Lab
+,IICT (CS-B),,,,,,IICT (AI-B) ,,,,,,PF Lab (CS-B) ,,,,,,,,,,,,,C-Margala 1
+,PF Lab (CS-C),,,,,,,,,,,,,,,,,,,,,,,,,C-Margala 3
+,Data St Lab (CY-B),,,,,,COAL Lab (CS-D),,,,,,"OOP Lab (CS-B, 22)",,,,,,,,,,,,,C-Margala 4
+,COAL Lab (CS-E),,,,,,COAL Lab (CS-B),,,,,,Comp Net (CS-C/D),,,,,,,,,,,,,C-Rawal 1
+,Data St Lab (CS-C),,,,,,Data St Lab (CS-A),,,,,,,,,,,,,,,,,,,Rawal 3 (B-232)
+,,,,Blockchain & Crypto (CY-M),,,Data St Lab (DS-C),,,,,,OS Lab (AI-J),,,,,,,,,,,,,C-Rawal 4
+,,,,,,,Prog for AI Lab (AI-D),,,,,,ML Lab (AI-K),,,,,,,,,,,,,C-GPU Lab
+,Data St Lab (AI-C),,,,,,Data St Lab (SE-B),,,,,,FSM,,,,,,,,,,,,,A-Karakoram 1
+,IICT (AI-A),,,,,,"DB Lab (CS-C, 21)",,,,,,IICT (CS-D),,,,,,,,,,,,,A-Karakoram 2
+,Data St Lab (SE-D),,,,,,,,,,,,FSM,,,,,,,,,,,,,A-Karakoram 3
+,PF Lab (CY-A),,,,,,PF Lab (CY-B),,,,,,,,,,,,,,,,,,,A-Mehran 1
+,Data St Lab (DS-D),,,,,,Deep Learning (B),,,,,,,,,,,,,,,,,,,A-Mehran 2
+,Func Eng Lab (CS-D1),,,,,,Func Eng Lab (CS-A1),,,,,,Func Eng Lab (CS-C1),,,,,,,,,,,,,A-CALL-1
+,Func Eng Lab (CS-D2),,,,,,Func Eng Lab (CS-A2),,,,,,Func Eng Lab (CS-C2),,,,,,,,,,,,,A-CALL-2
+,,,,,,,,,,FSM,,,FSM,,,,,,,,,,,,,A-CALL-3
+,DLD Lab (AI-D),,,,,,DLD Lab (AI-C),,,,,,DLD Lab (CY-A),,,,,,,,,,,,,B-Digital
